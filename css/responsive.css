@@ -261,6 +261,18 @@
     .header {
         height: 122px;
     }
+    
+     .ads1.hiden {
+        display: none;
+    }
+
+    .ads2.hiden {
+        display: none;
+    }
+
+    .ads3.hiden {
+        display: none;
+    }
     .logo {
         padding-top: 5px;
         float: left;
