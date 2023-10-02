@@ -397,4 +397,15 @@
     .d_none {
         display: none;
     }
+     .ads1 {
+        display:none
+    }
+
+    .ads2 {
+        display:none;
+    }  
+
+    .ads-banner {
+        display: none;
+    }
 }
